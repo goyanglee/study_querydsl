@@ -39,7 +39,7 @@ internal class MemberRepositoryTest {
 }
 ```
 
-findById같은 함수들은 JpaRepository에서 제공을 해주는데 QueryDsl의 경우에는 어떻게 할까?
+findById같은 함수들은 JpaRepository에서 제공을 해주는데 QueryDsl 을 같이 쓰고 싶으면 어떻게 할까?
 
 ## 사용자 정의 리포지토리
 
